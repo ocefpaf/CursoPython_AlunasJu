@@ -19,6 +19,8 @@ dependencies:
   - rise
   - scipy
   - seaborn
+  - vega
+  - vega_datasets
   - windrose
   - xarray
   - xlrd
