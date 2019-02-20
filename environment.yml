@@ -17,6 +17,7 @@ dependencies:
   - palettable
   - pandas
   - rise
+  - scikit-learn
   - scipy
   - seaborn
   - vega
