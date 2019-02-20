@@ -1,0 +1,23 @@
+name: LabJu
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - animatplot
+  - bokeh
+  - geopandas
+  - hvplot
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyterthemes
+  - matplotlib
+  - nb_conda_kernels
+  - numpy
+  - palettable
+  - pandas
+  - rise
+  - scipy
+  - seaborn
+  - windrose
+  - xarray
+  - xlrd
