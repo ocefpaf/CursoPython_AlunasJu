@@ -9,7 +9,6 @@ dependencies:
   - geopandas
   - hvplot
   - jupyter
-  - jupyter_contrib_nbextensions
   - jupyterthemes
   - matplotlib
   - nb_conda_kernels
